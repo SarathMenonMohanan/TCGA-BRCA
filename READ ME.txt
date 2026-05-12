@@ -1,0 +1,6 @@
+TCGA BRCA Multi-Omics Survival Prediction
+A machine learning pipeline for breast cancer survival prediction using multi-omics data from The Cancer Genome Atlas (TCGA-BRCA).
+
+Overview
+This project builds and compares classical machine learning and deep learning models for predicting patient survival outcomes using high-dimensional genomic data. 
+The dataset comprises 705 patient samples with 1,936 biological features across four omics modalities.
